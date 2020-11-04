@@ -1,0 +1,40 @@
+body{
+    background: url(images/fond4.jpg) fixed;
+    
+}
+
+
+.card{border-color: gold;
+    border: none;
+
+}
+
+h1{ 
+    border-bottom: 1px solid;
+    border-color: gold;
+    font-size: 1.6rem;
+    }
+
+    
+
+header{
+    background: url(images/fond2.png);
+    
+}
+img{
+    border-color: silver;
+    height: 300px;
+    
+   
+}
+a{
+    text-decoration: none;
+    border-color: silver;
+}
+
+#curriculum{
+    font-size: 0.6rem;
+}
+span{color: goldenrod;
+}
+
